@@ -1,6 +1,7 @@
 # covid-19-and-healthy-ctscans-lungs-are-extracted
 11,734 images of lungs extracted from CT scan images
 
+https://drive.google.com/file/d/1d8DKRSbLjnLsIqURjmoZDrJSYZZewEBO/view?usp=share_link
 
 
 Sources of original images
